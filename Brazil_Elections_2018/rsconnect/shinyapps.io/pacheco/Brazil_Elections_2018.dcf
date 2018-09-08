@@ -1,0 +1,12 @@
+name: Brazil_Elections_2018
+title: Brazil_Elections_2018
+username:
+account: pacheco
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 429748
+bundleId: 1575610
+url: https://pacheco.shinyapps.io/Brazil_Elections_2018/
+when: 1536381491.37559
+asMultiple: FALSE
+asStatic: FALSE
